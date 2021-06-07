@@ -7,7 +7,10 @@ Facial Expression or Facial Emotion Detector can be used to know whether a perso
 
 
 # Requirement
-1. python3.6
-2. pip install tensorflow
+ python3.6
+
+ ```
+ pip install tensorflow
+ ```
 
 
